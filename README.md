@@ -88,9 +88,9 @@
 			<br>
 			
 		
-			<a href="Chłodzenie.html"> -Chłodzenie </a>   <br />
+			<a href="https://michu-sys.github.io/komp6/"> -Chłodzenie </a>   <br />
 			<br>
-			<a href="Dysk.html"> -Dysk HDD/SSD </a> <br />
+			<a href="https://michu-sys.github.io/komp7/"> -Dysk HDD/SSD </a> <br />
 		</div>
 		
 		<div id="content">
